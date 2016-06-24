@@ -133,9 +133,7 @@ games.league = {
 		"Zyra"
 	],
 
-	//TODO
-	//change to array of bools
-	"order": ["blue", "red", "red", "blue", "blue", "red", "red", "blue", "blue", "red"],
+	"order": [true, false, false, true, true, false, false, true, true, false],
 
 	"divisions": {
 //		"challenger": "Challenger 6/4/16",
