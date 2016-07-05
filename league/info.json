@@ -1,4 +1,6 @@
-games.league = {
+{
+	"game": "league",
+	
 	"champs": [
 		"Aatrox",
 		"Ahri",
