@@ -138,6 +138,6 @@
 	"order": [true, false, false, true, true, false, false, true, true, false],
 
 	"divisions": {
-		"bronze": "Bronze 6/4/16"
+		"bronze.6.4.16": "Bronze 6/4/16"
 	}
 }
