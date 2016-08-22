@@ -139,5 +139,13 @@
 
 	"divisions": {
 		"bronze-6-4-16": "Bronze 6/4/16"
-	}
+	},
+
+	"time_benchmarks": [
+		{
+			"depth": 100,
+			"pruning_factor": "1%",
+			"duration": "1 million years"
+		}
+	]
 }
