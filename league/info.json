@@ -143,9 +143,39 @@
 
 	"time_benchmarks": [
 		{
-			"depth": 100,
-			"pruning_factor": "1%",
-			"duration": "1 million years"
+			"depth": 1,
+			"pruning_factor": "0%",
+			"duration": "0.224s"
+		},
+		{
+			"depth": 2,
+			"pruning_factor": "0%",
+			"duration": "4.147s"
+		},
+		{
+			"depth": 3,
+			"pruning_factor": "0%",
+			"duration": "5.718s"
+		},
+		{
+			"depth": 3,
+			"pruning_factor": "45%",
+			"duration": "2.496s"
+		},
+		{
+			"depth": 4,
+			"pruning_factor": "75%",
+			"duration": "14m16s"
+		},
+		{
+			"depth": 4,
+			"pruning_factor": "90%",
+			"duration": "14.635s"
+		},
+		{
+			"depth": 5,
+			"pruning_factor": "90%",
+			"duration": "3m18s"
 		}
 	]
 }
