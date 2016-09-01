@@ -138,7 +138,14 @@
 	"order": [true, false, false, true, true, false, false, true, true, false],
 
 	"divisions": {
-		"bronze-6-4-16": "Bronze 6/4/16"
+		"bronze-6-4-16": "Bronze 6/4/16",
+		"silver-9-1-16": "Silver 9/1/16",
+		"gold-9-1-16": "Gold 9/1/16",
+		"platinum-9-1-16": "Platinum 9/1/16",
+		"diamond-9-1-16": "Diamond 9/1/16",
+		"master-9-1-16": "Master 9/1/16",
+		"challenger-9-1-16": "Challenger 9/1/16",
+		"pro-9-1-16": "Pro 9/1/16"
 	},
 
 	"time_benchmarks": [
